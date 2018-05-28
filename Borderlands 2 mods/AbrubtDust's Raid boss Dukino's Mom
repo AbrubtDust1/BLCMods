@@ -1,0 +1,161 @@
+This is a mod I made to add another raid boss to Borderlands 2
+For those who want to have a somewhat new fight in the game
+and its Filter tool friendly id recommend fighting easy or medium for the most fun
+Hard and Hell are insainly hard and I included how much hp they have in their own tab
+if you want to know how much all the difficulties of the raid
+
+    #<NewRaidBosses>
+
+        #<Terremoto de la muerte><MUT>
+
+            #<EasyRaid>
+
+                #<EasyRaidHP>
+
+                    #1 Player(s):7,803,704,832<off>
+
+                    #2 Player(s):15,607,409,664<off>
+
+                    #3 Player(s):23,411,114,496<off>
+
+                    #4 Player(s):31,214,819,328<off>
+
+                #</EasyRaidHP>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps11"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,AttributeStartingValues[0].BaseValue.BaseValueConstant,,500.0"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps12"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageRadius,,100000.0"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps13"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageHeight,,2000.0"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-ShockBallPlayRate1"</key><value>",GD_Skagzilla.Anims.Anim_Skagzilla_ShockBall,PlayRate,,1.700000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps14"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,GroundSpeed,,1250.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-MeleePlayRate1"</key><value>",GD_Skagzilla.Anims.Anim_Skagzilla_Radius,PlayRate,,2.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-SprintingPct1"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,SprintingPct,,2.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-DukinosMom1"</key><value>",GD_Population_Skag.Balance.Unique.PawnBalance_Skagzilla,PlayThroughs[0].DisplayName,,Terremoto de la muerte"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-name1"</key><value>",GD_Skagzilla.Character.Pawn_Skagzilla,DrawScale,,1.500000"</value><off>
+
+            #</EasyRaid>
+
+            #<MediumRaid>
+
+                #<MediumRaidHP>
+
+                    #1 Player(s):7,803,704,832<off>
+
+                    #2 Player(s):15,607,409,664<off>
+
+                    #3 Player(s):23,411,114,496<off>
+
+                    #4 Player(s):31,214,819,328<off>
+
+                #</MediumRaidHP>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps11"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,AttributeStartingValues[0].BaseValue.BaseValueConstant,,500.0"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps12"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageRadius,,100000.0"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps13"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageHeight,,2000.0"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-ShockBallPlayRate1"</key><value>",GD_Skagzilla.Anims.Anim_Skagzilla_ShockBall,PlayRate,,4.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps14"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,GroundSpeed,,1250.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-MeleePlayRate1"</key><value>",GD_Skagzilla.Anims.Anim_Skagzilla_Radius,PlayRate,,4.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-SprintingPct1"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,SprintingPct,,4.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-DukinosMom1"</key><value>",GD_Population_Skag.Balance.Unique.PawnBalance_Skagzilla,PlayThroughs[0].DisplayName,,Terremoto de la muerte"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-name1"</key><value>",GD_Skagzilla.Character.Pawn_Skagzilla,DrawScale,,1.500000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Knockback1"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,Knockback,,(BaseValueConstant=8.000000)"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-DamageTypeDefinition1"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageTypeDefinition,,WillowDamageTypeDefinition'GD_Impact.DamageType.DmgType_RaidBody_LaunchPlayer'"</value><off>
+
+            #</MediumRaid>
+
+            #<HardRaid>
+
+                #<HardRaidHP>
+
+                    #1 Player(s):36,017,098,750
+
+                    #2 Player(s):72,034,197,500
+
+                    #3 Player(s):108,051,296,250
+
+                    #4 Player(s):144,068,395,000
+
+                #</HardRaidHP>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps15"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,AttributeStartingValues[0].BaseValue.BaseValueConstant,,1500.0"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps16"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageRadius,,100000.0"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps17"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageHeight,,2000.0"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-ShockBallPlayRate2"</key><value>",GD_Skagzilla.Anims.Anim_Skagzilla_ShockBall,PlayRate,,5.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps18"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,GroundSpeed,,1250.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-MeleePlayRate2"</key><value>",GD_Skagzilla.Anims.Anim_Skagzilla_Radius,PlayRate,,5.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-SprintingPct2"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,SprintingPct,,5.000000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-DukinosMom2"</key><value>",GD_Population_Skag.Balance.Unique.PawnBalance_Skagzilla,PlayThroughs[0].DisplayName,,Terremoto de la muerte"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-name2"</key><value>",GD_Skagzilla.Character.Pawn_Skagzilla,DrawScale,,1.500000"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Knockback2"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,Knockback,,(BaseValueConstant=9.000000)"</value><off>
+
+                #<hotfix><key>"SparkLevelPatchEntry-DamageTypeDefinition2"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageTypeDefinition,,WillowDamageTypeDefinition'GD_Impact.DamageType.DmgType_RaidBody_LaunchPlayer'"</value><off>
+
+            #</HardRaid>
+
+            #<HellRaid>
+
+                #<HellRaidHP>
+
+                    #1 Player(s):312,148,197,400
+
+                    #2 Player(s):624,296,394,800
+
+                    #3 Player(s):936,444,592,200
+
+                    #4 Player(s):1,248,592,789,600
+
+                #</HellRaidHP>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps19"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,AttributeStartingValues[0].BaseValue.BaseValueConstant,,13000.0"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps20"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageRadius,,100000.0"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps21"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageHeight,,2000.0"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-ShockBallPlayRate3"</key><value>",GD_Skagzilla.Anims.Anim_Skagzilla_ShockBall,PlayRate,,5.000000"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Swaps22"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,GroundSpeed,,1250.000000"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-MeleePlayRate3"</key><value>",GD_Skagzilla.Anims.Anim_Skagzilla_Radius,PlayRate,,10.000000"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-SprintingPct3"</key><value>",GD_Skagzilla.Character.CharClass_Skagzilla,SprintingPct,,9.000000"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-DukinosMom3"</key><value>",GD_Population_Skag.Balance.Unique.PawnBalance_Skagzilla,PlayThroughs[0].DisplayName,,Terremoto de la muerte"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-name3"</key><value>",GD_Skagzilla.Character.Pawn_Skagzilla,DrawScale,,1.800000"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-Knockback3"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,Knockback,,(BaseValueConstant=20.000000)"</value><on>
+
+                #<hotfix><key>"SparkLevelPatchEntry-DamageTypeDefinition3"</key><value>",GD_Skagzilla.Melee.MeleeDef_Skagzilla_Radius,DamageTypeDefinition,,WillowDamageTypeDefinition'GD_Impact.DamageType.DmgType_RaidBody_LaunchPlayer'"</value><on>
+
+            #</HellRaid>
+
+        #</Terremoto de la muerte>
+
+    #</NewRaidBosses>
